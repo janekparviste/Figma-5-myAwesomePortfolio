@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&family=Russo+One&display=swap');
+
+body {
+    background-color: #f4f4f4;
+    font-family: "Roboto", sans-serif;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h3 {
+    color: #C39EC9;
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    text-align: center;  
+}
+
+#iam {
+    color: #928D93;
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-style: normal;    
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 300px;
+    margin: 20px auto;
+}
+
+table {
+    background-color: #F6DCA7;
+    border: 1px solid #928D93;
+    width: 600px;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid #928D93;
+    text-align: center;
+}
+
+#figma {
+    color: #C39EC9;
+}
+
+#html {
+    color: #928D93;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    width: 200px;
+    height: 10px;
+    background-color:#C39EC9;
+    border-radius: 7px;
+}
+
+#logo {
+    font-size: 32px;
+}
